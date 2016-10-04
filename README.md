@@ -1,6 +1,6 @@
-//
-// Gabin Marignier - Télécom ParisTech - 2016
-//
+# Set-top box multimedia in C++/Java Swing
+
+__Practical exercises__: [INF224, Télécom ParisTech](http://perso.telecom-paristech.fr/~elc/cpp/TP-C++.html)
 
 *** Fonctionnement du programe ***
 
