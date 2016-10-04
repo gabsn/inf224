@@ -17,24 +17,20 @@ git clone https://github.com/gabsn/inf224.git
 
 ## Run Project
 
-_Note_: Let **PROJECT_ROOT** be the location where you cloned the project
+_Note_: Let PROJECT_ROOT be the location where you cloned the project
 
-1. Open a first terminal windows and type:
+1. Open a first terminal window and type:
 ```bash
 cd $(PROJECT_ROOT)/cpp
 cd make
 cd make run
 ```
 
-1/ make puis make run dans les dossier cpp/ et swing/
-2/ cliquer sur "Find Media" puis tester avec "lor" ou "star_wars" : l'interface affiche les infos des différents médias
-3/ cliquer sur "Play media" puis tester avec "bulle" (image) ou "projector" (vidéo) : l'interface va jouer le media
-4/ vous pouvez rajouter des médias dans le fichier "init_table.txt" (les medias sont chargés à partir de ce fichier)
+2. Open a second terminal window and type:
+```bash
+cd $(PROJECT_ROOT)/swing
+cd make
+cd make run
+```
 
-*** Commentaires ***
-
-- j'ai fait tout le tp, excepté les questions bonus
-- d'après mes tests, tout fonctionne correctement
-- j'ai documenté la partie java mais pas la partie c++ (je n'ai pas pensé à le faire sur le moment)
-- j'ai eu quelques difficultés sur la partie Client/Server, et j'ai dû passer un peu de temps pour la terminer (le code ne doit pas être extremement propre...)
-- j'ai trouvé le tp intéressant, bien que je l'ai trouvé un peu long
+3. You can now find and play the media specified in $(PROJECT_ROOT)/cpp/init_table.txt. For example, click on "Play Media" and type "bulle" or "projector".
