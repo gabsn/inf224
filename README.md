@@ -1,6 +1,6 @@
 # Set-top box multimedia in C++/Java Swing
 
-_Project source_: [INF224, Télécom ParisTech](http://perso.telecom-paristech.fr/~elc/cpp/TP-C++.html)
+_Project source:_ [INF224, Télécom ParisTech](http://perso.telecom-paristech.fr/~elc/cpp/TP-C++.html)
 
 ## Setup for Ubuntu
 
