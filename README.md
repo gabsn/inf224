@@ -21,19 +21,19 @@ _Note_: Let PROJECT_ROOT be the location where you cloned the project
 
 1. Open a first terminal window and type:
 
-```bash
-cd $(PROJECT_ROOT)/cpp
-cd make
-cd make run
-```
+   ```bash
+   cd $(PROJECT_ROOT)/cpp
+   cd make
+   cd make run
+   ```
 
 2. Open a second terminal window and type:
 
-```bash
-cd $(PROJECT_ROOT)/swing
-cd make
-cd make run
-```
+   ```bash
+   cd $(PROJECT_ROOT)/swing
+   cd make
+   cd make run
+   ```
 
 3. You can now find and play the media specified in _$(PROJECT_ROOT)/cpp/init_table.txt_.  
    For example, click on **Play Media** and type "bulle" or "projector".
