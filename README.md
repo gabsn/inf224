@@ -33,4 +33,5 @@ cd make
 cd make run
 ```
 
-3. You can now find and play the media specified in $(PROJECT_ROOT)/cpp/init_table.txt. For example, click on **Play Media** and type "bulle" or "projector".
+3. You can now find and play the media specified in _$(PROJECT_ROOT)/cpp/init_table.txt_ .  
+For example, click on **Play Media** and type "bulle" or "projector".
