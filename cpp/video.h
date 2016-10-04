@@ -22,7 +22,7 @@ public:
         s << "name : " << name << ", pathName : " << pathName << ", duration : " << duration;
     }
     void play() const override {
-        system(("mpv "+ getPathName() + " &").c_str());
+        system(("vlc "+ getPathName() + " &").c_str());
     }
     virtual void read (istream &f) {
         try {

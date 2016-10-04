@@ -24,7 +24,7 @@ public:
     }
 
     void play() const override {
-        system(("imagej "+ getPathName() + " &").c_str());
+        system(("vlc "+ getPathName() + " &").c_str());
     }
     virtual void read (istream &f) {
         try {
