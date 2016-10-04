@@ -20,6 +20,7 @@ git clone https://github.com/gabsn/inf224.git
 _Note_: Let PROJECT_ROOT be the location where you cloned the project
 
 1. Open a first terminal window and type:
+
 ```bash
 cd $(PROJECT_ROOT)/cpp
 cd make
@@ -27,6 +28,7 @@ cd make run
 ```
 
 2. Open a second terminal window and type:
+
 ```bash
 cd $(PROJECT_ROOT)/swing
 cd make
