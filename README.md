@@ -15,7 +15,16 @@ sudo apt-get install openjdk-8-jdk
 git clone https://github.com/gabsn/inf224.git
 ```
 
+## Run Project
 
+_Note_: Let **PROJECT_ROOT** be the location where you cloned the project
+
+1. Open a first terminal windows and type:
+```bash
+cd $(PROJECT_ROOT)/cpp
+cd make
+cd make run
+```
 
 1/ make puis make run dans les dossier cpp/ et swing/
 2/ cliquer sur "Find Media" puis tester avec "lor" ou "star_wars" : l'interface affiche les infos des différents médias
