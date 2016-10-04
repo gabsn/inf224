@@ -1,8 +1,21 @@
 # Set-top box multimedia in C++/Java Swing
 
-__Practical exercises__: [INF224, Télécom ParisTech](http://perso.telecom-paristech.fr/~elc/cpp/TP-C++.html)
+_Practical exercises_: [INF224, Télécom ParisTech](http://perso.telecom-paristech.fr/~elc/cpp/TP-C++.html)
 
-*** Fonctionnement du programe ***
+## Setup for Ubuntu
+
+- Install javac
+```bash
+sudo apt-get install openjdk-8-jdk
+```
+
+## Clone the project
+
+```bash
+git clone https://github.com/gabsn/inf224.git
+```
+
+
 
 1/ make puis make run dans les dossier cpp/ et swing/
 2/ cliquer sur "Find Media" puis tester avec "lor" ou "star_wars" : l'interface affiche les infos des différents médias
